@@ -2,7 +2,7 @@
 
 This page is for the introduction of Projects by Julja.
 
-If you want contact to me, email to [Link](julja.song@gmail.com). Thanks!
+If you want contact to me, email to julja.song@gmail.com. Thanks!
 
 ### Markdown
 
