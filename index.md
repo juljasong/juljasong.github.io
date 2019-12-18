@@ -1,6 +1,6 @@
 ## Projects by Julja
 
-This page is for the introduction Projects by Julja.
+This page is for the introduction of Projects by Julja.
 
 ### Markdown
 
