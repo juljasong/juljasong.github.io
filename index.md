@@ -2,6 +2,8 @@
 
 This page is for the introduction of Projects by Julja.
 
+If you want contact to me, email to [Link](julja.song@gmail.com). Thanks!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
