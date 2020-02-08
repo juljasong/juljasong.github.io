@@ -36,7 +36,7 @@ function deleteToDo(event) {
 
 function paintToDo(text) {
     const image = new Image();
-    image.src = `images/x.png`;
+    image.src = `images1/x.png`;
     image.classList.add("bt-img")
     const li = document.createElement("li");
     const delBtn = document.createElement("button");
