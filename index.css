@@ -10,7 +10,6 @@ body {
     -webkit-text-stroke: 0.3px white;
 }
 
-
 h1 {
     margin-bottom: 2cm;
     position: relative;
@@ -29,6 +28,7 @@ h1 {
 
 .btn {
     cursor: pointer;
+    border: none;
 }
 
 .showing {
