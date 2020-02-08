@@ -1,3 +1,7 @@
+html, body, input, textarea, select, button {
+    background-color: unset;
+}
+
 body {
     padding: 0cm;
     border: 0cm;
