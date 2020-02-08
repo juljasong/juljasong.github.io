@@ -17,6 +17,7 @@ h1 {
 }
 
 .form, .greetings {
+    position: relative;
     margin-top: 0cm;
     margin-bottom: 1cm;
     font-size: 40px;
