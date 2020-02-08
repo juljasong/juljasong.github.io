@@ -8,6 +8,15 @@ body {
     -webkit-text-stroke: 0.3px white;
 }
 
+.bgImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    right: 100%;
+    z-index: -1;
+    animation: fadeIn .5s linear;
+}
 h1 {
     margin-bottom: 2cm;
     position: relative;
@@ -17,7 +26,6 @@ h1 {
 }
 
 .form, .greetings {
-    position: relative;
     margin-top: 0cm;
     margin-bottom: 1cm;
     font-size: 40px;
@@ -64,15 +72,6 @@ input {
     margin: 0px 5px;
 }
 
-.bgImage {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    right: 100%;
-    z-index: -1;
-    animation: fadeIn .5s linear;
-}
 
 .bt-img {
     width: 15px;
