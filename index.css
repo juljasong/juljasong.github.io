@@ -6,8 +6,7 @@ body {
     padding: 0cm;
     border: 0cm;
     margin: 3cm;
-    color:black;
-    -webkit-text-stroke: 0.3px white;
+    color:#333333;
 }
 
 h1 {
@@ -28,7 +27,6 @@ h1 {
 
 .btn {
     cursor: pointer;
-    border: none;
 }
 
 .showing {
@@ -59,11 +57,12 @@ h1 {
 
 input {
     font-family: 'Indie Flower', 'Hi Melody', serif;
-    font-size: 15px;
+    font: #333333 15px;
     border: 3px solid;
     border-radius: 20px;
     padding: 2px 5px;
     margin: 0px 5px;
+    color: #333333;
 }
 
 .bgImage {
