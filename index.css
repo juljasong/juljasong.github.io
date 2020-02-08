@@ -6,7 +6,7 @@ body {
     padding: 0cm;
     border: 0cm;
     margin: 3cm;
-    color:#333333;
+    color:ghostwhite;
 }
 
 h1 {
@@ -57,12 +57,12 @@ h1 {
 
 input {
     font-family: 'Indie Flower', 'Hi Melody', serif;
-    font: #333333 15px;
+    font: 15px;
     border: 3px solid;
     border-radius: 20px;
     padding: 2px 5px;
     margin: 0px 5px;
-    color: #333333;
+    color: ghostwhite;
 }
 
 .bgImage {
