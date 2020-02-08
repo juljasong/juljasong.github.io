@@ -6,7 +6,7 @@ body {
     padding: 0cm;
     border: 0cm;
     margin: 3cm;
-    color:ghostwhite;
+    color:white;
 }
 
 h1 {
@@ -62,7 +62,7 @@ input {
     border-radius: 20px;
     padding: 2px 5px;
     margin: 0px 5px;
-    color: ghostwhite;
+    color: white;
 }
 
 .bgImage {
